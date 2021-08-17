@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @maikrai
+- 👋 Hi, I’m @Artem Lazhenko
 - 👀 I’m interested in Python developing
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on some projects that use Python
